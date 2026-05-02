@@ -1,0 +1,58 @@
+Personal Details
+Name: T.Surya
+Email: krishnatuttagunta7@gmail.com
+Phone: 9398699045
+
+Technical Skills 
+• Programming & Data Analysis: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, OpenCV), SQL (Joins, 
+CTEs, Window Functions, Query Optimization), Java, C++, C 
+• Business Intelligence & Visualization: Power BI (DAX, Power Query, Data Modeling, Dashboard Design, Row
+Level Security), Excel (Pivot Tables, VLOOKUP, Power Query) 
+• Cloud & Data Engineering: Snowflake (Data Warehousing, Query Performance Tuning, Role-Based Access 
+Control), ETL Pipelines, Data Modeling (Star Schema, Snowflake Schema) 
+• Tools & Platforms: Power Automate, SharePoint, Jupyter Notebook, VS Code, Git/GitHub, Docker 
+• Web Development: HTML, CSS, JavaScript 
+
+Professional Experience 
+Data Specialist Intern 
+May 2025 – June 2025 
+Technical Hub, Andhra Pradesh, India 
+• Developed Automated Invoice Generator using Power Automate, Excel, SharePoint, and Outlook to extract order 
+data, generate invoices, and send emails automatically. 
+• Streamlined billing and reporting workflows, reducing manual effort by 70% and accelerating invoice processing 
+times. 
+• Designed ETL pipelines and Star Schema models to integrate multiple data sources, improving data accuracy and 
+query performance by 65%. 
+• Optimized data flows in microservices architecture through query tuning, supporting reliable and efficient 
+operations. 
+
+
+Projects 
+Automated Leave Approval & Management System 
+• Tech Stack: Power BI, Power Automate, Excel, SharePoint, Outlook 
+February 2025 – March 2025 
+• Created an automated Leave Approval System to digitize leave requests, streamline multi-level approval workflows, 
+and maintain centralized records, improving process efficiency and reducing manual intervention.Implemented 
+validation rules, error handling, and Row-Level Security in Power BI to eliminate manual data entry errors. 
+Face Recognition System 
+January 2025 
+• Tech Stack: Python, OpenCV, Scikit-learn 
+• Developed real-time face recognition application using supervised machine learning and computer vision methods. 
+• Attained 94% accuracy in identification under varied lighting and angles via data preprocessing and model tuning. 
+• Optimized model for deployment and performance evaluation.
+
+Education 
+B.Tech in Artificial Intelligence & Machine Learning 
+Aditya Engineering College, Surampalem 
+Certifications 
+— CPI: 8.03/10 
+2023 – Present 
+• Microsoft Certified: Power BI Data Analyst Associate 
+• Snowflake SnowPro Core Certification 
+• Cisco Python Programming Certification 
+• GeeksforGeeks Advanced SQL Certification 
+• Oracle Certified Java Programmer 
+Achievements 
+• Secured 1st position in World Robotics Championship 2024 among 20 teams through AI and automation 
+integration. 
+• Ranked 10th in Aditya Shuttle Championship 2024 among 50+ participants.
